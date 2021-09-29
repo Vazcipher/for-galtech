@@ -1,24 +1,20 @@
-import logo from './logo.svg';
 import './App.css';
+import {Row,Col} from 'react-bootstrap'
+import Filters from './components/Filters';
+import Home from './components/Home';
+import './bootstrap.min.css'
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Row >
+      <Col md={3} sm={3} lg={3}>
+          <Filters/>
+      </Col>
+      <Col className="mt-5" md={8} sm={8} lg={8}>
+          <Home/>
+      </Col>
+    </Row>
   );
 }
 

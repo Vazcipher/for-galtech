@@ -1,0 +1,104 @@
+{
+    "diamonds":[
+        {
+            "name":"The Cullinan",
+            "image":"https://www.labichejewelers.com/mediap/uploads/famous%20diamonds/labichefamous1.webp",
+            "price":22000,
+            "shape":"round",
+            "cut":"good",
+            "color":"D",
+            "carat":5,
+            "clarity":"I1"
+        },
+        {
+            "name":"Great Star of Africa",
+            "image":"https://www.labichejewelers.com/mediap/uploads/famous%20diamonds/labichefamous3.webp",
+            "price":25000,
+            "shape":"Princess",
+            "cut":"good",
+            "color":"E",
+            "carat": 15,
+            "clarity":"S12"
+        },
+        {
+            "name":"The Centenary Diamond",
+            "image":"https://www.labichejewelers.com/mediap/uploads/famous%20diamonds/labichefamous4.webp",
+            "price":30000,
+            "shape":"emerlad ",
+            "cut":"verry good",
+            "color":"F",
+            "carat":5.2,
+            "clarity":"SI1"
+        },
+        {
+            "name":"The Orloff",
+            "image":"https://s7d5.scene7.com/is/image/RobbinsBros/discover_cushion_shape?scl=1",
+            "price":30000,
+            "shape":"cushion",
+            "cut":"good",
+            "color":"G",
+            "carat":20,
+            "clarity":"VS2"
+        },
+        {
+            "name":"The Regent",
+            "image":"https://s7d5.scene7.com/is/image/RobbinsBros/discover_radiant_shape?scl=1",
+            "price":22000,
+            "shape":"radiant",
+            "cut":"very good",
+            "color":"H",
+            "carat":25,
+            "clarity":"VVS2"
+        },
+        {
+            "name":"Koh-i-Noor",
+            "image":"https://s7d5.scene7.com/is/image/RobbinsBros/discover_asscher_shape?scl=1",
+            "price":22000,
+            "shape":"asscher",
+            "cut":"excellent",
+            "color":"I",
+            "carat":10,
+            "clarity":"VVS1"
+        },
+        {
+            "name":"The Great Chrysanthemum",
+            "image":"https://s7d5.scene7.com/is/image/RobbinsBros/discover_pear_shape?scl=1",
+            "price":35000,
+            "shape":"pear",
+            "cut":"very good",
+            "color":"J",
+            "carat":8,
+            "clarity":"I1"
+        },
+        {
+            "name":"The Cullinan",
+            "image":"https://www.labichejewelers.com/mediap/uploads/famous%20diamonds/labichefamous1.webp",
+            "price":22000,
+            "shape":"round",
+            "cut":"good",
+            "color":"K",
+            "carat":5,
+            "clarity":"FL"
+        },
+        {
+            "name":"Koh-i-Noor",
+            "image":"https://www.labichejewelers.com/mediap/uploads/famous%20diamonds/labichefamous13.webp",
+            "price":50000,
+            "shape":"asscher",
+            "cut":"excellent",
+            "color":"I",
+            "carat":10,
+            "clarity":"VVS1"
+        },
+        {
+            "name":"Koh-i-Noor",
+            "image":"https://www.labichejewelers.com/mediap/uploads/famous%20diamonds/labichefamous12.webp",
+            "price":40000,
+            "shape":"asscher",
+            "cut":"excellent",
+            "color":"I",
+            "carat":10,
+            "clarity":"VVS1"
+        }
+    ]
+}
