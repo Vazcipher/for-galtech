@@ -3,7 +3,6 @@ import {Card } from 'react-bootstrap'
 
 
 export default function Diamond({data}) {
-    console.log(data);
     return (
         <Card style={{ width: '14rem' }}>
             <Card.Img style={{width:"100%", height:"250px"}} variant="top" src={data.image} />
